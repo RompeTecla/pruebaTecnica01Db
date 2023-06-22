@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "root",
+      "password": "7Et9Nq38TJ0HEasZ7EBE",
+      "database": "GeeksHubs",
+      "host": "containers-us-west-210.railway.app",
+      "dialect": "mysql",
+      "port": "7717"
+    },
+    "test": {
+      "username": "root",
+      "password": "root",
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "root",
+      "database": "database_production",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
+  
